@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "cabae17653187e89370afdbc",
+  "owner": "ypshgcvcb",
+  "repo": "page-c3ff35b30b1c411cb6019821",
+  "title": "clash代理",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c3ff35b30b1c411cb6019821",
+      "a": "clash代理",
+      "b": "",
+      "entity": "clash代理",
+      "brand": "clash代理",
+      "separator": "",
+      "path": "index.html",
+      "hash": "cc15d7476be479a81534b19d7732b4323572d3dd883bf4467882e765ebd58f2c",
+      "content": {
+        "keyword1": "clash代理",
+        "keyword2": "",
+        "primary_entity": "clash代理",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash代理是一款专业的VPN代理和机场订阅服务，提供稳定高速的网络加速方案。支持多种流量套餐，助力流媒体解锁和设备连接。立即访问官网下载客户端，开启优质上网体验。",
+          "AI_DESCRIPTION": "clash代理是一款专业的VPN代理和机场订阅服务，提供稳定高速的网络加速方案。支持多种流量套餐，助力流媒体解锁和设备连接。立即访问官网下载客户端，开启优质上网体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\n  body {\n    font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n    margin: 0;\n    padding: 0;\n    background-color: #f8f5f2;\n    color: #333333;\n    line-height: 1.7;\n  }\n  header {\n    background-color: #ffffff;\n    box-shadow: 0 2px 10px rgba(232, 93, 93, 0.1);\n    position: sticky;\n    top: 0;\n    z-index: 100;\n  }\n  .nav {\n    max-width: 1200px;\n    margin: 0 auto;\n    padding: 1rem 1.5rem;\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n  }\n  .logo {\n    font-size: 1.8rem;\n    font-weight: bold;\n    color: #e85d5d;\n    text-decoration: none;\n  }\n  .nav-links {\n    display: flex;\n    gap: 2rem;\n  }\n  .nav-links a {\n    color: #333333;\n    text-decoration: none;\n    font-size: 1rem;\n    font-weight: 500;\n  }\n  .main {\n    max-width: 1200px;\n    margin: 0 auto;\n    padding: 2rem 1.5rem;\n  }\n  h1 {\n    font-size: 2.8rem;\n    text-align: center;\n    margin: 2rem 0 1rem;\n    color: #333333;\n  }\n  .intro {\n    text-align: center;\n    max-width: 800px;\n    margin: 0 auto 3rem;\n    font-size: 1.1rem;\n    color: #555555;\n  }\n  h2 {\n    font-size: 1.8rem;\n    color: #e85d5d;\n    margin: 3rem 0 1.5rem;\n    text-align: center;\n  }\n  .plans {\n    display: flex;\n    justify-content: center;\n    flex-wrap: wrap;\n    gap: 2rem;\n    margin-bottom: 4rem;\n  }\n  .card {\n    background: #ffffff;\n    border: 2px solid #f0ebeb;\n    border-radius: 12px;\n    padding: 2rem 1.5rem;\n    width: 300px;\n    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);\n    transition: all 0.3s ease;\n  }\n  .card:hover {\n    box-shadow: 0 8px 25px rgba(232, 93, 93, 0.15);\n    transform: translateY(-8px);\n  }\n  .card.featured {\n    border-color: #e85d5d;\n    position: relative;\n  }\n  .card.featured::after {\n    content: \"推荐\";\n    position: absolute;\n    top: -10px;\n    right: 20px;\n    background: #e85d5d;\n    color: white;\n    padding: 4px 12px;\n    border-radius: 20px;\n    font-size: 0.85rem;\n    font-weight: bold;\n  }\n  .card h3 {\n    margin: 0 0 1rem;\n    font-size: 1.4rem;\n    color: #333333;\n  }\n  .price {\n    font-size: 2rem;\n    font-weight: bold;\n    color: #e85d5d;\n    margin: 1rem 0 1.5rem;\n  }\n  .annual {\n    font-size: 0.95rem;\n    color: #777777;\n    margin-bottom: 1.5rem;\n  }\n  .features {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .features li {\n    padding: 0.8rem 0;\n    border-bottom: 1px solid #f0ebeb;\n    font-size: 1rem;\n    color: #555555;\n  }\n  .features li:last-child {\n    border-bottom: none;\n  }\n  .features li:before {\n    content: \"✔\";\n    color: #e85d5d;\n    margin-right: 8px;\n    font-weight: bold;\n  }\n  .usage {\n    background-color: #ffffff;\n    padding: 3rem;\n    border-radius: 12px;\n    max-width: 800px;\n    margin: 3rem auto;\n    box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n  }\n  .usage h3 {\n    color: #e85d5d;\n    margin-top: 0;\n  }\n  .steps {\n    display: flex;\n    flex-direction: column;\n    gap: 1.5rem;\n  }\n  .step {\n    display: flex;\n    gap: 1.5rem;\n    align-items: flex-start;\n  }\n  .step-number {\n    background: #e85d5d;\n    color: white;\n    width: 40px;\n    height: 40px;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    font-weight: bold;\n    flex-shrink: 0;\n  }\n  .faq {\n    max-width: 900px;\n    margin: 0 auto;\n  }\n  details {\n    background: #ffffff;\n    margin-bottom: 1rem;\n    border-radius: 10px;\n    overflow: hidden;\n    box-shadow: 0 3px 12px rgba(0,0,0,0.06);\n  }\n  summary {\n    padding: 1.5rem 2rem;\n    font-size: 1.15rem;\n    font-weight: 600;\n    color: #333333;\n    cursor: pointer;\n    list-style: none;\n  }\n  summary::-webkit-details-marker {\n    display: none;\n  }\n  details[open] summary {\n    border-bottom: 2px solid #f0ebeb;\n  }\n  .answer {\n    padding: 1.8rem 2rem;\n    color: #555555;\n    font-size: 1.05rem;\n    line-height: 1.8;\n  }\n  footer {\n    background-color: #f0ebeb;\n    padding: 2rem;\n    text-align: center;\n    color: #777777;\n    font-size: 0.9rem;\n  }\n  @media (max-width: 768px) {\n    h1 {\n      font-size: 2.2rem;\n    }\n    .nav {\n      padding: 1rem;\n    }\n    .nav-links {\n      gap: 1rem;\n    }\n    .card {\n      width: 100%;\n    }\n    .plans {\n      flex-direction: column;\n    }\n    .step {\n      flex-direction: column;\n      text-align: center;\n    }\n    .step-number {\n      margin: 0 auto 0.5rem;\n    }\n  }\n</style>\n\n\n  <header>\n    <nav class=\"nav\">\n      <a href=\"#\" class=\"logo\">clash代理</a>\n      <div class=\"nav-links\">\n        <a href=\"#plans\">套餐选择</a>\n        <a href=\"#faq\">常见问题</a>\n      </div>\n    </nav>\n  </header>\n  <main>\n    <section>\n      <h1>clash代理</h1>\n      <div class=\"intro\">\n        <p>clash代理是一款专业的高速VPN代理服务，提供稳定节点池和充足流量支持。无论您是个人用户还是团队，都能通过机场订阅和客户端下载获得优质的网络加速体验。</p>\n      </div>\n    </section>\n    <section id=\"plans\">\n      <h2>选择适合您的套餐</h2>\n      <div class=\"plans\">\n        <div class=\"card\">\n          <h3>基础版</h3>\n          <div class=\"price\">¥15/月</div>\n          <div class=\"annual\">按年付仅需 ¥150/年</div>\n          <ul class=\"features\">\n            <li>每月 100GB 极速流量</li>\n            <li>支持 3 台设备同时在线</li>\n            <li>解锁基础流媒体</li>\n            <li>普通线路节点池</li>\n          </ul>\n        </div>\n        <div class=\"card featured\">\n          <h3>旗舰版</h3>\n          <div class=\"price\">¥35/月</div>\n          <div class=\"annual\">按年付仅需 ¥350/年</div>\n          <ul class=\"features\">\n            <li>每月 300GB 极速流量</li>\n            <li>支持 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7x24 优先工单支持</li>\n          </ul>\n        </div>\n        <div class=\"card\">\n          <h3>团队版</h3>\n          <div class=\"price\">¥85/月</div>\n          <div class=\"annual\">按年付仅需 ¥850/年</div>\n          <ul class=\"features\">\n            <li>每月 1000GB 极速流量</li>\n            <li>支持 20 台设备同时在线</li>\n            <li>VIP 专属高带宽节点</li>\n            <li>支持企业定制路由</li>\n            <li>专属客户经理服务</li>\n          </ul>\n        </div>\n      </div>\n    </section>\n    <section>\n      <h2>使用指南</h2>\n      <div class=\"usage\">\n        <h3>clash代理使用流程</h3>\n        <div class=\"steps\">\n          <div class=\"step\">\n            <div class=\"step-number\">1</div>\n            <div>\n              <strong>选择套餐</strong>\n              <p>登录官网，选择基础版、旗舰版或团队版，完成订阅。</p>\n            </div>\n          </div>\n          <div class=\"step\">\n            <div class=\"step-number\">2</div>\n            <div>\n              <strong>支付与验证</strong>\n              <p>完成支付后，系统将发送订阅链接和客户端下载地址。</p>\n            </div>\n          </div>\n          <div class=\"step\">\n            <div class=\"step-number\">3</div>\n            <div>\n              <strong>下载客户端</strong>\n              <p>在官网或订阅邮件中获取Clash客户端下载。</p>\n            </div>\n          </div>\n          <div class=\"step\">\n            <div class=\"step-number\">4</div>\n            <div>\n              <strong>配置连接</strong>\n              <p>导入订阅链接，连接高速节点，享受加速。</p>\n            </div>\n          </div>\n        </div>\n      </div>\n    </section>\n    <section id=\"faq\" class=\"faq\">\n      <h2>常见问题</h2>\n      <details>\n        <summary>什么是clash代理？</summary>\n        <div class=\"answer\">\n          <p>clash代理是一款专业的VPN代理和机场订阅服务，提供稳定高速的节点和流量方案，支持多种设备连接和流媒体解锁。</p>\n        </div>\n      </details>\n      <details>\n        <summary>如何订阅clash代理？</summary>\n        <div class=\"answer\">\n          <p>访问官网，选择套餐后完成在线支付，即可获得订阅链接和相关下载信息。</p>\n        </div>\n      </details>\n      <details>\n        <summary>支持哪些客户端？</summary>\n        <div class=\"answer\">\n          <p>支持Clash for Android、Windows、iOS 等主流客户端，以及浏览器直接配置机场订阅链接。</p>\n        </div>\n      </details>\n      <details>\n        <summary>流量使用如何计算？</summary>\n        <div class=\"answer\">\n          <p>每月固定GB流量，超出部分可能需要升级套餐或限速。</p>\n        </div>\n      </details>\n      <details>\n        <summary>售后服务如何？</summary>\n        <div class=\"answer\">\n          <p>旗舰版及以上提供7x24工单支持，团队版有专属客户经理，快速解决使用问题。</p>\n        </div>\n      </details>\n    </section>\n  <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n  <footer>\n    <p>© 2024 clash代理 | 提供机场订阅与客户端下载服务</p>\n  </footer>\n\n",
+          "hash": "cc664b57627a699ee59a3b40976f4c0de4a15198c709bce716906b4008138038",
+          "seo": {
+            "title": "clash代理 - 专业VPN代理服务 | 机场订阅与客户端下载",
+            "keywords": "clash代理, 机场订阅, 客户端下载, VPN代理, 网络加速器, clash客户端",
+            "description": "clash代理是一款专业的VPN代理和机场订阅服务，提供稳定高速的网络加速方案。支持多种流量套餐，助力流媒体解锁和设备连接。立即访问官网下载客户端，开启优质上网体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lqywgkj.cn",
+    "host": "p-6bedaead4f.lqywgkj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2abc1497bb9f5d74e4f93c389e13d6d3f477bc64a21c26204fb4c1645e278e94",
+    "sitemap.xml": "2eb13af0c2fcfbf9107213cc8ad1819fb40adfb7950b499bd5620474e711aa54",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5b88162cb4e4ae0328906948567cbee2d5cbb79be191c23817b2d5f6e457eeac",
+    "robots.txt": "73bd401ef2ed12e324eb15ae257b6194389d7843ae74d9be7d2861c431c2fdf6",
+    "a427180efc0b359ac0b32bcaece54345.txt": "d691b4eec95cd3f697b0a56d10a61436e9f8103406acfd0a1d34e4102803e344"
+  },
+  "revision": "da7f04c104b2e2867680b4ba85535ce603e3e3fc0e1c6427fd6a2d42e07af220"
+}
